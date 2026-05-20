@@ -58,7 +58,7 @@
                     "updater":  {
                                     "pubkey":  "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDYzQ0ExMEIyNDFDMzZDNkUKUldSdWJNTkJzaERLWXlMYU1pTmVjMXp6ZXo4WVp1NjlhcENjSXhXR2NwUnVPOWx0cTdFVFdQMHAK",
                                     "endpoints":  [
-                                                      "https://updates.carbonflow.local/carbonqueue/{{target}}/{{current_version}}"
+                                                      "https://releases.carbonflows.store/update/carbonqueue/{{target}}/{{current_version}}"
                                                   ]
                                 }
                 }
